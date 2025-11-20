@@ -1,0 +1,3 @@
+/Users/dilan06/inlämning 2 klasses/cmake-build-debug/CMakeFiles/sensor_system.dir
+/Users/dilan06/inlämning 2 klasses/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dilan06/inlämning 2 klasses/cmake-build-debug/CMakeFiles/rebuild_cache.dir
