@@ -1,4 +1,4 @@
-Det är ett C++ program för att simulera och övervaka sensorer med larmhantering och datalagring.
+Det är ett C/C++ program för att simulera och övervaka sensorer med larmhantering och datalagring.
 
 
 Funktioner
